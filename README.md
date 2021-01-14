@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Tizen Apps
 - 🤔 I’m looking for help with ... Tizen OS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedln],(https://www.linkedin.com/in/michaelsanchez630/) [Upwork](https://www.upwork.com/freelancers/~010e478f7f3e5d0d0c?viewMode=1)
+- 📫 How to reach me: ... [Linkedln](https://www.linkedin.com/in/michaelsanchez630/),[Upwork](https://www.upwork.com/freelancers/~010e478f7f3e5d0d0c?viewMode=1)
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I love to cook! I live by the cast-iron 🙏. Follow me on my Instagram
 -->
