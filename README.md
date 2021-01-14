@@ -1,4 +1,5 @@
-### Hey there 👋, I'm Michael (and yes, you can call me Mike; either is fine :smiley:
+### Hey there 👋, I'm Michael. 
+
 
 
 Here are some ideas to get you started:
